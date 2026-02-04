@@ -168,6 +168,8 @@
 <tr><td>161</td><td>电力场景变压器指示牌说明牌铭牌检测数据集VOC+YOLO格式1424张1类别</td><td><a href="https://mbd.pub/o/bread/YZWbkpdvbA==">下载</a></td></tr>
 <tr><td>162</td><td>电力场景耐张线夹与绝缘子缺陷检测数据集VOC+YOLO格式2681张7类别</td><td><a href="https://mbd.pub/o/bread/YZWbkphsbQ==">下载</a></td></tr>
 <tr><td>163</td><td>电力场景钢绞线电缆线钢丝线钢索线钢丝绳缺陷雷击断裂扭曲磨损隆起检测数据集VOC+YOLO格式3729张5类别</td><td><a href="https://mbd.pub/o/bread/YZWbkplpaw==">下载</a></td></tr>
-
+<tr><td>164</td><td>电力场景输电线异物检测数据集VOC+YOLO格式1331张6类别</td><td><a href="https://mbd.pub/o/bread/YZWbkp1pZQ==">下载</a></td></tr>
+<tr><td>165</td><td>电力场景变压器杆塔上部件识别分割数据集labelme格式1220张5类别</td><td><a href="https://mbd.pub/o/bread/YZWbkp1ybA==">下载</a></td></tr>
 </tbody>
 </table>
+
