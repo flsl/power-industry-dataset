@@ -172,7 +172,9 @@
 <tr><td>165</td><td>电力场景变压器杆塔上部件识别分割数据集labelme格式1220张5类别</td><td><a href="https://mbd.pub/o/bread/YZWbkp1ybA==">下载</a></td></tr>
 <tr><td>166</td><td>红外热成像图像电力设备故障缺陷检测数据集VOC+YOLO格式1729张6类别</td><td><a href="https://mbd.pub/o/bread/YZWbk5lwaA==">下载</a></td></tr>
 <tr><td>167</td><td>电力场景电弧隔离开关手套头盔绝缘子火花变压器检测数据集VOC+YOLO格式4593张11类别</td><td><a href="https://mbd.pub/o/bread/YZWbk5puZA==">下载</a></td></tr>
+<tr><td>168</td><td>电力场景红外图像绝缘子检测数据集VOC+YOLO格式420张1类别</td><td><a href="https://mbd.pub/o/bread/YZWbk51pbA==">下载</a></td></tr>
 </tbody>
 </table>
+
 
 
